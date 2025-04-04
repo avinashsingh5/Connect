@@ -42,5 +42,6 @@ export default {
       "nord",
       "sunset",
     ],
+    defaultTheme: "light",
   },
 };
